@@ -3138,6 +3138,16 @@ Background=Color3.fromHex"#041f2e",
 Button=Color3.fromHex"#0284c7",
 Icon=Color3.fromHex"#0ea5e9",
 },
+Forsaken={
+Accent=Color3.fromHex"#185250",
+Dialog=Color3.fromHex"#10191b",
+Outline=Color3.fromHex"#374449",
+Text=Color3.fromHex"#D9E6E8",
+Placeholder=Color3.fromHex"#5b7e75",
+Background=Color3.fromHex"#101213",
+Button=Color3.fromHex"#30292F",
+Icon=Color3.fromHex"#29635A",
+},                    
 Violet={
 Name="Violet",
 
